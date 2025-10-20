@@ -1,7 +1,7 @@
 window.COIN_CONFIG = {
   name: "Printing All Your Transactions LIVE",
   ticker: "", // hide ticker badge if empty
-  mint: "Printing..",
+  mint: "Waiting to be updated",
   xCommunityUrl: "https://x.com/i/communities/1976549804017844655",
   pumpUrl: "", // removed Pump.fun button per request
   solscanBase: "https://solscan.io/token/",
