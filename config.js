@@ -25,8 +25,3 @@ window.COIN_CONFIG = {
 
 
 
-
-
-
-
-
